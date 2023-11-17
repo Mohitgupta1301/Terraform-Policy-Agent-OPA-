@@ -1,0 +1,1 @@
+{"container":{"name":"nginx"},"kind":"Pod","operation":"create","user":"user:alice"}
